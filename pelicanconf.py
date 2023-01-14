@@ -1,9 +1,8 @@
-AUTHOR = 'rubenmc127'
-SITENAME = 'portfolio'
+AUTHOR = 'Rubén Martín Campos'
+SITENAME = "Ruben's Portfolio"
 SITEURL = ''
 
 PATH = 'content'
-OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'WET'
 
