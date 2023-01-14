@@ -1,10 +1,10 @@
-AUTHOR = 'Rubén Martín Campos'
-SITENAME = "Ruben's Portfolio"
+AUTHOR = 'Ruben Martín Campos'
+SITENAME = 'Rubén Martín Campos'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'WET'
+TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 
